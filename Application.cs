@@ -17,4 +17,5 @@
             }
         }
     }
-  
+  // trzeba napisac petle ktora bedzie generowała losowe dane do pliku txt
+  // pozniej beda to dane formatowane w konkretne pola jak baza danych

@@ -16,3 +16,4 @@ namespace GenerateSql
 }
 // program main bedzie tylkko wywyloluwal apke
 // uturz klase aplikacja ktora bedzie 
+// zcczytywanie plików 
